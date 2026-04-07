@@ -1,5 +1,7 @@
 this is from the picoGym's Forensics playlist, section II
 
+all of these commands were run on a kali linux VM
+
 i had to look up instructions for the one before this because i absolutely could not get the partitioning concept, every time i tried to use the plain filesystem commands in the kali linux sleuthkit documentation i was STRUGGLING
 so, with this one, i knew to start with mmls 
 
